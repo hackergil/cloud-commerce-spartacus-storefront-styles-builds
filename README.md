@@ -1,11 +1,11 @@
-# Spartacus Styles
+# Spartacus styles snapshot builds
 
-Spartacus Styles is a styling library that provides global styling and theming to the [Spartacus Storefront](https://www.npmjs.com/package/@spartacus/storefront).
+Snapshot builds for the Spartacus styles library
 
-The package should be used together with the Spartacus Storefront to build an eCommerce platform using SAP Commerce Cloud exclusively through the Commerce REST API.
+The sources for this package are in the `styles` library of the [cloud-commerce-spartacus-storefront](https://github.com/SAP/cloud-commerce-spartacus-storefront) repo. Please file issues and pull requests against that repo.
 
-For more informations, see [Cloud Commerce Spartacus Storefront](https://github.com/SAP/cloud-commerce-spartacus-storefront).
+Information about snapshot builds can be found [here](https://github.com/SAP/cloud-commerce-spartacus-storefront/blob/develop/docs/snapshot_builds.md)
 
-#### Related projects
+## License
 
-[Spartacus Storefront](https://www.npmjs.com/package/@spartacus/storefront)
+Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, v. 2 except as noted otherwise in the [LICENSE](https://github.com/SAP/cloud-commerce-spartacus-storefront-styles-builds/blob/master/LICENSE) file
